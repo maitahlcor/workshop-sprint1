@@ -1,5 +1,6 @@
 .header-container {
-  background-image: linear-gradient(to right, rgb(39, 39, 71), rgb(216, 200, 200));
+  background: rgb(163, 161, 206);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(118,118,221,1) 35%, rgba(0,212,255,1) 100%);
   padding: 10px;
   position: sticky;
   top: 0;

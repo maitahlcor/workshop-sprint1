@@ -1,4 +1,12 @@
+
+.product-info--button {
+  background-color: #acaae2;
+  color:#0f0d39;
+}
 button:hover {
-  background-color: rgb(120, 113, 113);
-  color: white;
+  background-color: #6f6ace;
+  color:  #2db1f2;
+}
+.product-info--countdown {
+  color:#0f0d39;
 }
